@@ -1,0 +1,7 @@
+Rencana konten DICKY
+-Javascript
+  *ES6
+  *Framework Javascript 
+-PHP Framework
+-Interview
+-Vlog
