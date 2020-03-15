@@ -1,0 +1,5 @@
+Rencana konten DICKY
+-Javascript
+-PHP Framework
+-Interview
+-Vlog
