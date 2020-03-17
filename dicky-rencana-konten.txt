@@ -2,10 +2,11 @@ Rencana konten DICKY
 -Javascript
   *ES6
   *Framework Javascript 
-   ^vue
+   ^ vue
+   ^ React
 -Struktur Data Dasar
 -PHP Framework
- ^Laravel
+ ^ Laravel
 -Interview
 -Vlog
 -phyton
